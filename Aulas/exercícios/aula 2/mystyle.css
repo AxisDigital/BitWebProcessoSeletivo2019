@@ -1,29 +1,16 @@
-<style>
-p {
-    color: green;
-    font-size: 16px;
+
+h1,h2,h3,p {
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
 
-h2 {
-    color: red
+body{
+    background-color: silver
 }
 
-.center {
-    display: block;
+table{
+    color: blue
+
 }
 
-li {
-    font: outline;
-    font-style: oblique
-}
-
-td {
-    text-align: center;
-    color:black
-}
-
-body {
-    background: rgb(145, 228, 168)
-    
-}
-</style>
